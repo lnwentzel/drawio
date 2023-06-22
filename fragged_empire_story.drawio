@@ -1,59 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-06-22T14:00:16.330Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3BvpGLcM_YyRz9toMPVH" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-22T18:49:01.574Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="xEs_16FTSNzayCOE1Akm" version="21.5.0" type="github">
   <diagram name="Side-1" id="iJeBfsnnO7eNH_ixpWtO">
     <mxGraphModel dx="2261" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qeTUl3hi-t3jaX_qqtEC-3" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry y="40" width="480" height="360" as="geometry" />
+        <mxCell id="qeTUl3hi-t3jaX_qqtEC-10" value="Children of Pol: Race&lt;br&gt;Fallen parts of Pol when he died&lt;br&gt;Truth: Mechanoids" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="195" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="qeTUl3hi-t3jaX_qqtEC-2" value="&lt;b&gt;GODS&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qeTUl3hi-t3jaX_qqtEC-3">
-          <mxGeometry x="210" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qeTUl3hi-t3jaX_qqtEC-14" value="" style="group" vertex="1" connectable="0" parent="qeTUl3hi-t3jaX_qqtEC-3">
-          <mxGeometry width="480" height="360" as="geometry" />
-        </mxCell>
-        <mxCell id="qeTUl3hi-t3jaX_qqtEC-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qeTUl3hi-t3jaX_qqtEC-14">
-          <mxGeometry width="480" height="360" as="geometry" />
-        </mxCell>
-        <mxCell id="qeTUl3hi-t3jaX_qqtEC-4" value="Mon: Createor of all&lt;br&gt;Dead: Is Sands of Eternity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qeTUl3hi-t3jaX_qqtEC-14">
-          <mxGeometry x="180" y="30" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="qeTUl3hi-t3jaX_qqtEC-5" value="Akh:King of people&lt;br&gt;Creator of Totalt&lt;br&gt;Truth: Yellow star" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qeTUl3hi-t3jaX_qqtEC-14">
-          <mxGeometry x="20" y="110" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="qeTUl3hi-t3jaX_qqtEC-6" value="Ath:queen of people. Godess of war. Creator of legions.&lt;br&gt;Truth: Red star" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qeTUl3hi-t3jaX_qqtEC-14">
-          <mxGeometry x="190" y="110" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="qeTUl3hi-t3jaX_qqtEC-7" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Neph: Godess of nature, power, fertility&lt;br&gt;Eye of Neph in the Sands of Eternity&lt;br&gt;People don&#39;t pray openly&lt;br&gt;Lost arm and weapon: ire&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qeTUl3hi-t3jaX_qqtEC-14">
-          <mxGeometry x="330" y="110" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="qeTUl3hi-t3jaX_qqtEC-8" value="Pol: god of Alchemy, knowledge, metal&lt;br&gt;Dead: killed by Neph&lt;br&gt;Noone prays to him" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qeTUl3hi-t3jaX_qqtEC-14">
-          <mxGeometry x="30" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="qeTUl3hi-t3jaX_qqtEC-13" value="Twins" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=default;" edge="1" parent="qeTUl3hi-t3jaX_qqtEC-14" source="qeTUl3hi-t3jaX_qqtEC-5" target="qeTUl3hi-t3jaX_qqtEC-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qeTUl3hi-t3jaX_qqtEC-18" value="Archons: The gods servants&lt;br&gt;The Truth: night sky stars&lt;br&gt;Not prayed to singular" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qeTUl3hi-t3jaX_qqtEC-14">
-          <mxGeometry x="190" y="190" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="qeTUl3hi-t3jaX_qqtEC-10" value="Children of Pol.&lt;br&gt;Fallen parts of Pol when he died&lt;br&gt;Truth: Mechanoids" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="230" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="qeTUl3hi-t3jaX_qqtEC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qeTUl3hi-t3jaX_qqtEC-8" target="qeTUl3hi-t3jaX_qqtEC-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qeTUl3hi-t3jaX_qqtEC-16" value="Pol&#39;s rest&lt;br&gt;Where Pol&#39;s body crashed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="360" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="qeTUl3hi-t3jaX_qqtEC-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qeTUl3hi-t3jaX_qqtEC-8" target="qeTUl3hi-t3jaX_qqtEC-16">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="qeTUl3hi-t3jaX_qqtEC-16" value="Pol&#39;s rest: Place&lt;br&gt;Where Pol&#39;s body crashed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qeTUl3hi-t3jaX_qqtEC-19" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Ire: Spear of the god Neph&lt;br&gt;Somewhere on Akharon&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="80" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="qeTUl3hi-t3jaX_qqtEC-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qeTUl3hi-t3jaX_qqtEC-7" target="qeTUl3hi-t3jaX_qqtEC-19">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qeTUl3hi-t3jaX_qqtEC-21" value="Totalt: Race" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="500" width="120" height="60" as="geometry" />
@@ -61,10 +19,54 @@
         <mxCell id="qeTUl3hi-t3jaX_qqtEC-22" value="Legion: Race" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="510" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qeTUl3hi-t3jaX_qqtEC-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-30" y="10" width="480" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="qeTUl3hi-t3jaX_qqtEC-33" value="" style="group" vertex="1" connectable="0" parent="qeTUl3hi-t3jaX_qqtEC-14">
+          <mxGeometry width="480" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="qeTUl3hi-t3jaX_qqtEC-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qeTUl3hi-t3jaX_qqtEC-33">
+          <mxGeometry width="480" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="qeTUl3hi-t3jaX_qqtEC-4" value="Mon: Createor of all&lt;br&gt;Dead: Is Sands of Eternity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qeTUl3hi-t3jaX_qqtEC-33">
+          <mxGeometry x="180" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qeTUl3hi-t3jaX_qqtEC-5" value="Akh:King of people&lt;br&gt;Creator of Totalt&lt;br&gt;Truth: Yellow star" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qeTUl3hi-t3jaX_qqtEC-33">
+          <mxGeometry x="20" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qeTUl3hi-t3jaX_qqtEC-6" value="Ath:queen of people. Godess of war. Creator of legions.&lt;br&gt;Truth: Red star" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qeTUl3hi-t3jaX_qqtEC-33">
+          <mxGeometry x="190" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qeTUl3hi-t3jaX_qqtEC-7" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Neph: Godess of nature, power, fertility&lt;br&gt;Eye of Neph in the Sands of Eternity&lt;br&gt;People don&#39;t pray openly&lt;br&gt;Lost arm and weapon: ire&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qeTUl3hi-t3jaX_qqtEC-33">
+          <mxGeometry x="330" y="110" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qeTUl3hi-t3jaX_qqtEC-8" value="Pol: god of Alchemy, knowledge, metal&lt;br&gt;Dead: killed by Neph&lt;br&gt;Noone prays to him" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qeTUl3hi-t3jaX_qqtEC-33">
+          <mxGeometry x="30" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qeTUl3hi-t3jaX_qqtEC-18" value="Archons: The gods servants&lt;br&gt;The Truth: night sky stars&lt;br&gt;Not prayed to singular" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qeTUl3hi-t3jaX_qqtEC-33">
+          <mxGeometry x="190" y="190" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qeTUl3hi-t3jaX_qqtEC-13" value="Twins" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=default;" edge="1" parent="qeTUl3hi-t3jaX_qqtEC-33" source="qeTUl3hi-t3jaX_qqtEC-5" target="qeTUl3hi-t3jaX_qqtEC-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qeTUl3hi-t3jaX_qqtEC-2" value="&lt;b&gt;GODS&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qeTUl3hi-t3jaX_qqtEC-33">
+          <mxGeometry x="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeTUl3hi-t3jaX_qqtEC-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qeTUl3hi-t3jaX_qqtEC-8" target="qeTUl3hi-t3jaX_qqtEC-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-70" y="190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qeTUl3hi-t3jaX_qqtEC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qeTUl3hi-t3jaX_qqtEC-8" target="qeTUl3hi-t3jaX_qqtEC-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qeTUl3hi-t3jaX_qqtEC-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qeTUl3hi-t3jaX_qqtEC-5" target="qeTUl3hi-t3jaX_qqtEC-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qeTUl3hi-t3jaX_qqtEC-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qeTUl3hi-t3jaX_qqtEC-6" target="qeTUl3hi-t3jaX_qqtEC-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qeTUl3hi-t3jaX_qqtEC-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qeTUl3hi-t3jaX_qqtEC-7" target="qeTUl3hi-t3jaX_qqtEC-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
